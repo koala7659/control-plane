@@ -34,7 +34,6 @@ const (
 	StartingInstallation         OperationStage = "StartingInstallation"
 	WaitingForInstallation       OperationStage = "WaitingForInstallation"
 	ConnectRuntimeAgent          OperationStage = "ConnectRuntimeAgent"
-	WaitForAgentToConnect        OperationStage = "WaitForAgentToConnect"
 
 	TriggerKymaUninstall   OperationStage = "TriggerKymaUninstall"
 	WaitForClusterDeletion OperationStage = "WaitForClusterDeletion"
